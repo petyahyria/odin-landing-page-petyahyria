@@ -76,6 +76,7 @@ a{
     font-size: 18px;
     color: #e5e7eb;
     margin-bottom: 16px;
+    font-weight: 300;
 }
 
 .hero-btn{
@@ -85,6 +86,7 @@ a{
     border-style: none;
     border-radius: 8px;
     font-size: 16px;
+    font-weight: 600;
 }
 
 .hero-image{
@@ -155,3 +157,44 @@ a{
     font-weight: bold;
     font-size: 24px;
 }
+
+/* Call to action section */
+
+.call-to-action-section{
+    background-color: #f9faf8;
+    height: 50vh;
+    justify-content: center;
+}
+
+.call-to-action-box{
+    height: 25vh;
+    width: 75vw;
+    background-color: #3882f6;
+    border-radius: 25px;
+    justify-content: space-evenly;
+}
+
+.call-to-action-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #f9faf8;
+}
+
+.call-to-action-text{
+    font-size: 16px;
+    color: #e5e7eb;
+    font-weight: 300;
+}
+
+.sign-up-btn{
+    color: #f9faf8;
+    padding: 12px 24px;
+    border-style: none;
+    border-radius: 12px;
+    border: 2px solid #f9faf8;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: #3882f6;
+}
+
+/*  */
